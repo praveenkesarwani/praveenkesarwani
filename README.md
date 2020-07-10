@@ -1,4 +1,5 @@
-Hi there wave
+Hi there :wave:
+
 :telescope: I’m currently working on a Website.
 
 :seedling: I’m currently learning Web Development.
