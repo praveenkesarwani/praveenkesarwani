@@ -1,12 +1,12 @@
 Hi there wave
-telescope I’m currently working on a Website.
+:telescope: I’m currently working on a Website.
 
-seedling I’m currently learning Web Development.
+:seedling: I’m currently learning Web Development.
 
-boom Also improving my Data Structures and Algorithms skills.
+:boom: Also improving my Data Structures and Algorithms skills.
 
-sparkles I also do Competitive Programming.
+:sparkles: I also do Competitive Programming.
 
-heart :heart: I have mostly worked on Java.
+:heart: I have mostly worked on Java.
 
-mailbox How to reach me: https://twitter.com/Praveenkesarwa6
+:mailbox: How to reach me: https://twitter.com/Praveenkesarwa6
