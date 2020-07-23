@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>
-      About Me
-    </title>
-  </head>
+   </head>
   <body>
     <div class="Box mt-4">
       <div class="Box-body p-4">
