@@ -17,7 +17,7 @@
 <h2>Where to find me</h2>
 <table>
 <tr>
-<td><a href="https://twitter.com/Praveenkesarwa6">:Twitter:</a></td>
+<td><a href="https://twitter.com/Praveenkesarwa6">:twitter:</a></td>
 <td>C++</td>
 <td>HTML</td>
 <td>CSS</td>
