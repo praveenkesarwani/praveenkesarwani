@@ -258,18 +258,6 @@
               </tr>
             </tbody>
           </table>
-          <p>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://camo.githubusercontent.com/d984fe4657967f401505b8f4715421506b70eba3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d476f7572617652757369796133302673686f775f69636f6e733d7472756526686964655f626f726465723d74727565"
-              ><img
-                src="https://camo.githubusercontent.com/d984fe4657967f401505b8f4715421506b70eba3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d476f7572617652757369796133302673686f775f69636f6e733d7472756526686964655f626f726465723d74727565"
-                alt="GitHub stats"
-                data-canonical-src="https://github-readme-stats.vercel.app/api?username=Praveenkesarwani&amp;show_icons=true&amp;hide_border=true"
-                style="max-width: 100%;"
-            /></a>
-          </p>
           <br />
           <a
             href="https://www.linkedin.com/in/praveen-kesarwani-22298a145/"
