@@ -19,4 +19,3 @@
 </p>
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkesarwani&show_icons=true&theme=radical"style="max-width:100%;">
