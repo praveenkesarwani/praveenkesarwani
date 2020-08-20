@@ -19,7 +19,7 @@ Linux :heavy_check_mark:
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkesarwani&show_icons=true&theme=radical"style="max-width:100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokeshbisht&show_icons=true&theme=radical"style="max-width:100%;">
 
 <br>
 
