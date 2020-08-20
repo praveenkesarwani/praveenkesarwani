@@ -5,11 +5,11 @@
 
 <h4>Things that I know:</h4>
 <p> 
-Java :heavy_check_mark: :heavy_minus_sign:
-C++ :heavy_check_mark: :heavy_minus_sign: 
-Git :heavy_check_mark: :heavy_minus_sign:
-HTML :heavy_check_mark: :heavy_minus_sign:
-CSS :heavy_check_mark: :heavy_minus_sign:
+Java :heavy_check_mark: :heavy_minus_sign: &nbsp 
+C++ :heavy_check_mark: :heavy_minus_sign: &nbsp
+Git :heavy_check_mark: :heavy_minus_sign: &nbsp
+HTML :heavy_check_mark: :heavy_minus_sign: &nbsp
+CSS :heavy_check_mark: :heavy_minus_sign: &nbsp
 Linux :heavy_check_mark:
 </p>
 
