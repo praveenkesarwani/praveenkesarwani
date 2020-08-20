@@ -3,7 +3,7 @@
 <p>Currently learning javascript and web development.</p>
 <p>I like problem solving and data structures.</p>
 
-<img align = "center" src = "https://photos.google.com/share/AF1QipNKEJAeSlb05LiUM2Ncdv7Bcuu0Mf6I9zELbSV7GwRG1GbfOpeo38SRcqP9r8jwlg/photo/AF1QipMkZi4Jyvc307nrwApOz3GmjkF8s6iD-NXON-J1?key=RUNUQURzcDFISENCNUVWcGNOdWR1bUF5OC01U053" alt = "Profile">
+<img align = "center" src = "profile/profile.jpg" alt = "Profile">
 
 </p>
 <h4>Things that I know:</h4>
