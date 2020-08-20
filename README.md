@@ -5,11 +5,11 @@
 
 <h4>Things that I know:</h4>
 <p> 
-Java :heavy_check_mark: :heavy_minus_sign: &nbsp 
-C++ :heavy_check_mark: :heavy_minus_sign: &nbsp
-Git :heavy_check_mark: :heavy_minus_sign: &nbsp
-HTML :heavy_check_mark: :heavy_minus_sign: &nbsp
-CSS :heavy_check_mark: :heavy_minus_sign: &nbsp
+Java :heavy_check_mark: &nbsp || &nbsp 
+C++ :heavy_check_mark: &nbsp || &nbsp
+Git :heavy_check_mark: &nbsp || &nbsp
+HTML :heavy_check_mark: &nbsp || &nbsp
+CSS :heavy_check_mark: &nbsp || &nbsp
 Linux :heavy_check_mark:
 </p>
 
@@ -18,7 +18,8 @@ Linux :heavy_check_mark:
 <p>Reach me at :  &nbsp  <a href="https://twitter.com/praveenkesarwa6" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/7bb377436f06f85e9a9b4c88a360849bbdbaf99d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d2d5f2e7376673f7374796c653d736f6369616c266c6f676f3d74776974746572" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter--_.svg?style=social&amp;logo=twitter" style="max-width:100%;"></a>
 </p>
 
-<br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenkesarwani&show_icons=true&theme=radical"style="max-width:100%;">
+
+<br>
 
