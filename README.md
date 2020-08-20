@@ -2,7 +2,7 @@
 <p>I am an aspiring software developer.</p>
 <p>Currently learning javascript and web development.</p>
 <p>I like problem solving and data structures.</p>
-<img src = 'profile.jpg>
+<img src = 'profile.jpg'>
 
 </p>
 <h4>Things that I know:</h4>
