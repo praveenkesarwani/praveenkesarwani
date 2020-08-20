@@ -5,7 +5,6 @@
 
 <img align = "center" src = "profile/profile.jpg" alt = "Profile">
 
-</p>
 <h4>Things that I know:</h4>
 <p>:arrow_right: Java</p>
 <p>:arrow_right: C++</p>
