@@ -12,8 +12,9 @@ Praveen</a></h1>
 <p> 
 🌱 I am a Backend/FullStack Developer with experience in building scalable and efficient web applications. 
 
+<!--
 🌱 Currently, I am working at <b>Eatclub (Box8)</b> in Bangalore, where I am involved in developing end-to-end Vendor Management Modules. This includes the implementation of key features such as Procurement Order, Vendor Invoice, and Debit Notes. I have also played a pivotal role in migrating Asset and Services Management Modules. In these projects, I have independently handled the design and implementation of both the backend and frontend aspects.
-
+-->
 🌱 With a strong command over technologies like <b>Angular, Node.js, Ruby on Rails, PostgreSQL, and TypeScript</b>, I have designed and implemented robust backend architectures using RESTful APIs. I take pride in creating intuitive user interfaces that enhance the overall user experience in the Vendor Management Modules. Throughout my work, I have collaborated closely with cross-functional teams, gathering requirements and incorporating valuable feedback to deliver high-quality solutions.
 
 🌱 Throughout my career, I have demonstrated a strong commitment to delivering high-quality software solutions while adhering to best practices in code organization, modularization, and maintainability. I thrive in collaborative environments, where I can contribute my technical expertise and work with diverse teams to achieve project goals. I am constantly seeking new challenges and opportunities to enhance my skills and make a meaningful impact in the field of software development.</p>
